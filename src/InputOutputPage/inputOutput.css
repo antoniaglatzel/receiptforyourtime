@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.inputOutputPage {
+  width: 99vw;
+  height: 165vh;
+}
+
+*{
+    /* background-color: #FBF2D1; */
+    margin: 0;
+    padding: 0;
+    /* color: #9F27DE; */
+   
+    
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Poppins';   
+
+  }
+  
+  .inputOutputPageGrid {
+    height: 100vh;
+  
+    display: grid;
+   
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+
+    border: 1pt black;
+   
+  }
+
+  .inputOutputPageGridItem{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    /* border: solid 2pt pink; */
+
+    display: grid;
+    grid-template-rows: 0.6fr 0.6fr 1fr 0.25fr;
+  }
+
+  .inputOutputPageGridItemRight{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    /* border: solid 2pt pink; */
+
+    display: grid;
+    grid-template-rows: 0.3fr 3fr 0.5fr;
+  }
+
+  .inputOutputPageGridItemRightDownload{
+    /* border: solid 2pt blue; */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+  }
+
+  .inputOutputPageGridItemElement{
+    /* border: solid 2pt blue; */
+    border: none;
+  }
+
+  /* Elements */
+
+  .inputOutputPageGridItemHeadline{
+    font-weight: 900;
+    font-size: 70pt;
+    line-height: 85%;
+    color: #9F27DE;
+    margin-left: 3%;
+  
+  }
+
+
+  .inputOutputPageGridItemInput{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .inputOutputPageGridItemSliders{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    text-align: left;
+    color: #9F27DE;
+
+    line-height: 200%;
+
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    column-gap: 4%;
+    row-gap: 15%;
+  }
+
+  .inputOutputPageGridItemCalculate{
+
+    border-color: none;
+    margin-left: 5%;
+
+  }
+
+  .inputOutputPageGridItemRightWhiteSpace {
+
+    text-align: center;
+    /* border: solid 2pt blue; */
+  }
+
+
+
+  .inputOutputPageGridItemReceipt {
+    
+
+    display: grid;
+    grid-template-columns: 1fr 2.3fr 1fr;
+    grid-template-rows: 1fr;
+
+  }
+
+  .inputOutputPageGridItemReceiptImage {
+
+    /* border: solid 2pt blue; */
+    background-image: url("../assets/receipt.png");
+
+    display: grid;
+    grid-template-rows: 1fr 0.5fr 0.3fr 0.3fr;
+  }
+
+  .inputOutputPageGridItemReceiptImageText {
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+  }
+
+  .inputOutputPageGridItemReceiptImageTextQR {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    
+  }
+
+  .border {
+    border: solid 1px red;
+  }
+
+
