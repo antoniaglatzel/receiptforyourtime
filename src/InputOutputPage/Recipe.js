@@ -11,6 +11,7 @@ import DallE from './DallE.js';
 
 
 
+
 const StyledTextField = styled(TextField)`
     border-radius: 30px;
     margin: 0.5em;
@@ -71,8 +72,8 @@ const Recipe = ({ }) => {
 
                 <div>
                     {/* DallE Image */}
-                    {print ? (theme.palette.mode === 'dark' ? <img src={dark}></img> : <img src={light}></img>) : <DallE></DallE> }
-                    {/* <DallE></DallE> */}
+                    {/* {print ? (theme.palette.mode === 'dark' ? <img src={}></img> : <img src={}></img>) : <DallE></DallE> } */}
+                    <DallE></DallE>
                 </div>
 
                 <div className='inputOutputPageGridItemReceiptImageText' style={{ fontFamily: 'Roboto Mono', fontSize: 12 }}>

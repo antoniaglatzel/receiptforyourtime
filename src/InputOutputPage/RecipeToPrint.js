@@ -10,7 +10,7 @@ import Slider from '@mui/material/Slider';
 import './inputOutput.css';
 import { margin } from '@mui/system';
 import { ItemContext } from '../App_Folder/App'
-import DallE from './DallE.jsx';
+import DallE from './DallE.js';
 
 
 

@@ -7,8 +7,8 @@ import QR from '../assets/qr_code.png';
 import Slider from '@mui/material/Slider';
 import './inputOutput.css';
 import { margin } from '@mui/system';
-import Recipe from './Recipe.jsx';
-import RecipeToPrint from './RecipeToPrint.jsx';
+import Recipe from './Recipe.js';
+import RecipeToPrint from './RecipeToPrint.js';
 import { jsPDF } from "jspdf";
 import html2canvas from "html2canvas";
 import { ItemContext } from '../App_Folder/App'
