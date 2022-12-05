@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/receiptforyourtime/static/css/main.9f386df3.css",
-    "main.js": "/receiptforyourtime/static/js/main.0c5e95aa.js",
+    "main.js": "/receiptforyourtime/static/js/main.e571a943.js",
     "static/js/703.991dca0d.chunk.js": "/receiptforyourtime/static/js/703.991dca0d.chunk.js",
     "static/js/142.e66cff33.chunk.js": "/receiptforyourtime/static/js/142.e66cff33.chunk.js",
     "static/media/dallEimage.png": "/receiptforyourtime/static/media/dallEimage.d6941a00612d7b30b8ea.png",
@@ -12,12 +12,12 @@
     "static/media/qr_code.png": "/receiptforyourtime/static/media/qr_code.37f6fd39275f884f1207.png",
     "index.html": "/receiptforyourtime/index.html",
     "main.9f386df3.css.map": "/receiptforyourtime/static/css/main.9f386df3.css.map",
-    "main.0c5e95aa.js.map": "/receiptforyourtime/static/js/main.0c5e95aa.js.map",
+    "main.e571a943.js.map": "/receiptforyourtime/static/js/main.e571a943.js.map",
     "703.991dca0d.chunk.js.map": "/receiptforyourtime/static/js/703.991dca0d.chunk.js.map",
     "142.e66cff33.chunk.js.map": "/receiptforyourtime/static/js/142.e66cff33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f386df3.css",
-    "static/js/main.0c5e95aa.js"
+    "static/js/main.e571a943.js"
   ]
 }
