@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/receiptforyourtime/static/css/main.9f386df3.css",
+    "main.js": "/receiptforyourtime/static/js/main.0c5e95aa.js",
+    "static/js/703.991dca0d.chunk.js": "/receiptforyourtime/static/js/703.991dca0d.chunk.js",
+    "static/js/142.e66cff33.chunk.js": "/receiptforyourtime/static/js/142.e66cff33.chunk.js",
+    "static/media/dallEimage.png": "/receiptforyourtime/static/media/dallEimage.d6941a00612d7b30b8ea.png",
+    "static/media/receipt.png": "/receiptforyourtime/static/media/receipt.fdc12e347735890c0acb.png",
+    "static/media/landing-image.png": "/receiptforyourtime/static/media/landing-image.442e7d9b162ec739042b.png",
+    "static/media/dark.png": "/receiptforyourtime/static/media/dark.13c08d3550e826616a89.png",
+    "static/media/You_Wasted_My_Time.png": "/receiptforyourtime/static/media/You_Wasted_My_Time.c5f8a8cfaea54d918efe.png",
+    "static/media/qr_code.png": "/receiptforyourtime/static/media/qr_code.37f6fd39275f884f1207.png",
+    "index.html": "/receiptforyourtime/index.html",
+    "main.9f386df3.css.map": "/receiptforyourtime/static/css/main.9f386df3.css.map",
+    "main.0c5e95aa.js.map": "/receiptforyourtime/static/js/main.0c5e95aa.js.map",
+    "703.991dca0d.chunk.js.map": "/receiptforyourtime/static/js/703.991dca0d.chunk.js.map",
+    "142.e66cff33.chunk.js.map": "/receiptforyourtime/static/js/142.e66cff33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f386df3.css",
+    "static/js/main.0c5e95aa.js"
+  ]
+}
